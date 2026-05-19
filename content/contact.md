@@ -6,12 +6,11 @@ description: "Get in touch about T-Microcement — site visits, samples, quotes,
 # Get in touch
 
 Tell us about your space — room, surface, rough size, and what
-you're going for. We respond within one working day.
+you're going for. We respond quickly on WhatsApp.
 
 ## Direct
 
-**Email** — [hello@t-microcement.com](mailto:hello@t-microcement.com)
-**WhatsApp** — *to be added*
+**WhatsApp** — [+62 895-6051-61882](https://wa.me/62895605161882)
 **Based in** — Bali, Indonesia
 
 ## What we're good for
