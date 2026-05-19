@@ -1,27 +1,55 @@
 ---
 title: "Contact"
-description: "Get in touch about T-Microcement — site visits, samples, quotes, dealer enquiries."
+description: "Order T-Microcement, request a sample, or visit the reference project in Medewi."
 ---
 
 # Get in touch
 
-Tell us about your space — room, surface, rough size, and what
-you're going for. We respond quickly on WhatsApp.
+We're a small operation in **Medewi, West Bali**. WhatsApp is the
+fastest way to reach us — usually a same-day response.
 
 ## Direct
 
 **WhatsApp** — [+62 895-6051-61882](https://wa.me/62895605161882)
-**Based in** — Bali, Indonesia
+**Based in** — Medewi, West Bali, Indonesia
 
-## What we're good for
+## How we work
 
-- **Site visits & samples** — we trowel a real sample for you to take home.
-- **Residential projects** — bathrooms, kitchens, walls, floors, furniture.
-- **Dealer & professional enquiries** — material-only sales for trained applicators. Different pricing.
-- **Honest "is this right for you?" conversations** — if your case isn't a fit, we'll say so.
+We sell the material. We don't apply it on your site. If your project
+is unusual or you'd like to talk it through before ordering, we're
+happy to do that.
 
-## What we're not
+What we send / do:
 
-- Not a 24-hour-turnaround service. Cure times are cure times.
-- Not certified for industrial / commercial-stress applications.
-  See [the durability note](/product/#on-durability--being-straight-with-you).
+- **Sample by post** — a small physical piece showing the finish,
+  texture, and natural colour. Good for getting a feel before
+  committing.
+- **Visit us in Medewi** — come see the actual finish on the original
+  reference project. Walk on it, knock on it, have a chat over
+  coffee. Worth it for bigger projects.
+- **Project conversations** — substrate questions, "is this right for
+  X" advice, colour-matching, dealer enquiries. WhatsApp us with
+  rough numbers and we'll respond.
+
+## Pricing & ordering
+
+- **Material-only** — primer, wall mix, floor mix, sealer; sold as
+  5 kg buckets.
+- **End-customer price** — 750,000–850,000 IDR per bucket.
+- **Contractors / dealers** — volume discounts. No formal dealer
+  programme yet, just a real conversation about your typical project
+  pipeline.
+- **Early adopters** — your bucket price locks in for as long as you
+  keep buying. [See the product page →](/product/#early-adopters-bucket-price-locked-for-life)
+
+## Where we're not a fit (yet)
+
+- **Industrial or commercial-stress applications** without a
+  documented trial first — [see the durability note →](/product/#on-durability--being-straight-with-you)
+- **Outside Indonesia** — we'll ship within Indonesia; international
+  logistics is something we haven't figured out yet. Ask us.
+- **Projects needing formal certified spec data** — we don't have lab
+  certificates yet, and we won't pretend we do.
+
+If your project is one of these, tell us anyway. We may still be
+the right fit, or we might be able to point you somewhere that is.

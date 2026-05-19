@@ -1,11 +1,11 @@
 ---
 title: "T-Microcement"
-description: "A modern microcement system for walls and floors. Developed and applied in Bali for tropical climates."
+description: "A modern microcement system for walls and floors. Developed and field-tested in Bali for tropical climates."
 hero_image: "/photos/microcement-floor-wall-mirror-corner.jpg"
 hero_image_alt: "Warm beige microcement floor and wall meeting a wood-framed mirror with hidden uplighting"
-hero_eyebrow: "Microcement · Bali"
+hero_eyebrow: "Microcement · Medewi, Bali"
 hero_title: "Seamless surfaces, made for the tropics."
-hero_subtitle: "A 2–3 mm cementitious finish for walls, floors, bathrooms and furniture. Joint-free, breathable, applied directly over your existing surfaces."
+hero_subtitle: "A 2–3 mm polymer-modified cement finish for walls, floors, bathrooms and furniture. Joint-free, breathable, UV-stable. Applied directly over your existing surfaces."
 hero_cta_label: "See the work"
 hero_cta_href: "/gallery/"
 hero_cta_alt_label: "Get in touch"
@@ -13,14 +13,14 @@ hero_cta_alt_href: "/contact/"
 
 usp_heading: "Why people choose it"
 usps:
-  - title: "Built for humidity"
-    body: "Designed and field-tested in tropical Bali. Anti-mould, water-resistant, UV-stable."
-  - title: "Three thin layers"
-    body: "Primer, microcement, sealer. 2–3 mm total. No demolition, no level changes."
-  - title: "One year in use"
-    body: "We use it in our own home. No certification claims — just real-world results we can show you."
-  - title: "Direct, no markup chain"
-    body: "Custom-formulated and applied by the same team. 150,000 IDR per m², dealer rates available."
+  - title: "Designed for the tropics"
+    body: "Developed in Bali on a real villa. UV-stable mineral system, zinc-mineralised for ongoing mould resistance, titanium-dioxide keeps the surface cool-touch in direct sun."
+  - title: "A 3-layer system"
+    body: "Primer, main mix, sealer. 2–3 mm total. Applied directly over what you already have — concrete, tile, plaster, plywood — no demolition."
+  - title: "One year in our own home"
+    body: "No lab certificate yet. One full year of daily use on the original villa, real photos, no marketing puff. We publish what we know."
+  - title: "Repair-friendly"
+    body: "Most microcements are notoriously hard to patch. Ours sands and re-coats. A small leftover bucket keeps your surfaces looking right for the long haul."
 
 gallery_teaser_heading: "Recent finishes"
 gallery_teaser:
@@ -33,8 +33,8 @@ gallery_teaser:
 gallery_teaser_cta_label: "Full gallery →"
 gallery_teaser_cta_href: "/gallery/"
 
-closing_heading: "Tell us about your space."
-closing_body: "Site visit, sample, quote. We work directly with you, your designer or your contractor."
+closing_heading: "Tell us what you're building."
+closing_body: "Sample by post or a visit to the reference project in Medewi. We sell the material — you (or your contractor) apply. Early-adopter pricing locked for life."
 closing_cta_label: "Start a conversation"
 closing_cta_href: "/contact/"
 ---
