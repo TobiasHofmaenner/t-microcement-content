@@ -1,0 +1,40 @@
+# Hugo site configuration for T-Microcement.
+#
+# ──────────────────────────────────────────────────────────────────
+# Editor notes
+# ──────────────────────────────────────────────────────────────────
+# Safe to edit:
+#   - title           (browser tab + brand display)
+#   - params.*        (description, contact info, anything site-wide)
+#
+# Be careful:
+#   - baseURL         (must stay https://www.t-microcement.com/ —
+#                     changing it breaks every internal link)
+#   - markup config   (unsafe = true is required for rendering
+#                     HTML embedded in markdown; leave alone)
+#
+# When in doubt: keep a backup of this file before editing, or
+# ask the maintainer.
+
+baseURL = 'https://www.t-microcement.com/'
+languageCode = 'en'
+defaultContentLanguage = 'en'
+title = 'T-Microcement'
+
+[params]
+  description = 'Microcement finishes for walls, floors, bathrooms and kitchens.'
+  # WhatsApp is the primary contact channel; phone number is the same.
+  # Display string keeps the human-friendly formatting; the URL strips
+  # non-digits per wa.me's expected format.
+  whatsapp_display = '+62 895-6051-61882'
+  whatsapp_url     = 'https://wa.me/62895605161882'
+
+[minify]
+  minifyOutput = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ['HTML']
+  page = ['HTML']
