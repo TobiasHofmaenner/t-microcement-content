@@ -70,10 +70,10 @@ actively moving or expanding. Site prep is half the job.
 
 ### What colours can I get?
 
-The default is a warm off-white in the natural cement +
-titanium-dioxide range you see in the [gallery](/gallery/). Custom
-tones on request — bring us a reference colour, we'll trowel a
-sample piece for you to approve before committing.
+The default is the natural warm off-white you see in the
+[gallery](/gallery/). Custom tones on request — bring us a reference
+colour, we'll trowel a sample piece for you to approve before
+committing.
 
 ### Is it really waterproof in bathrooms?
 

@@ -39,8 +39,9 @@ What we send / do:
 - **Contractors / dealers** — volume discounts. No formal dealer
   programme yet, just a real conversation about your typical project
   pipeline.
-- **Early adopters** — your bucket price locks in for as long as you
-  keep buying. [See the product page →](/product/#early-adopters-bucket-price-locked-for-life)
+- **Early adopters** — pricing is intentionally friendly for the
+  first wave of customers.
+  [See the product page →](/product/#attractive-pricing-for-early-adopters)
 
 ## Where we're not a fit (yet)
 
@@ -49,7 +50,7 @@ What we send / do:
 - **Outside Indonesia** — we'll ship within Indonesia; international
   logistics is something we haven't figured out yet. Ask us.
 - **Projects needing formal certified spec data** — we don't have lab
-  certificates yet, and we won't pretend we do.
+  certificates yet.
 
 If your project is one of these, tell us anyway. We may still be
 the right fit, or we might be able to point you somewhere that is.
