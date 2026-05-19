@@ -1,10 +1,40 @@
 ---
-title: "Home"
+title: "T-Microcement"
+description: "A modern microcement system for walls and floors. Developed and applied in Bali for tropical climates."
+hero_image: "/photos/microcement-floor-wall-mirror-corner.jpg"
+hero_image_alt: "Warm beige microcement floor and wall meeting a wood-framed mirror with hidden uplighting"
+hero_eyebrow: "Microcement · Bali"
+hero_title: "Seamless surfaces, made for the tropics."
+hero_subtitle: "A 2–3 mm cementitious finish for walls, floors, bathrooms and furniture. Joint-free, breathable, applied directly over your existing surfaces."
+hero_cta_label: "See the work"
+hero_cta_href: "/gallery/"
+hero_cta_alt_label: "Get in touch"
+hero_cta_alt_href: "/contact/"
+
+usp_heading: "Why people choose it"
+usps:
+  - title: "Built for humidity"
+    body: "Designed and field-tested in tropical Bali. Anti-mould, water-resistant, UV-stable."
+  - title: "Three thin layers"
+    body: "Primer, microcement, sealer. 2–3 mm total. No demolition, no level changes."
+  - title: "One year in use"
+    body: "We use it in our own home. No certification claims — just real-world results we can show you."
+  - title: "Direct, no markup chain"
+    body: "Custom-formulated and applied by the same team. 150,000 IDR per m², dealer rates available."
+
+gallery_teaser_heading: "Recent finishes"
+gallery_teaser:
+  - image: "/photos/beige-wall-wood-column-uplight.jpg"
+    alt: "Beige microcement wall beside a wood column with hidden LED grazing light"
+  - image: "/photos/exterior-white-wall-tropical-view.jpg"
+    alt: "White microcement exterior wall with palm trees and distant mountains"
+  - image: "/photos/wall-rounded-corner-texture.jpg"
+    alt: "Curved microcement wall corner showing the smooth-to-textured transition"
+gallery_teaser_cta_label: "Full gallery →"
+gallery_teaser_cta_href: "/gallery/"
+
+closing_heading: "Tell us about your space."
+closing_body: "Site visit, sample, quote. We work directly with you, your designer or your contractor."
+closing_cta_label: "Start a conversation"
+closing_cta_href: "/contact/"
 ---
-
-# Seamless microcement surfaces
-
-A modern decorative finish for walls, floors, bathrooms and kitchens.
-Joint-free, durable, and beautiful in both residential and commercial spaces.
-
-[Get in touch →](/contact/)
