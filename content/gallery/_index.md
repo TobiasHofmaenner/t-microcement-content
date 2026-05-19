@@ -1,7 +1,16 @@
 ---
 title: "Gallery"
-description: "Photos of T-Microcement finishes — walls, floors, exteriors and texture details."
+description: "Photos of T-Microcement finishes — bathrooms, walls, floors, exteriors and texture details."
 groups:
+  - heading: "Bathrooms"
+    note: "Microcement walls and floors in finished bathrooms — joint-free, sealed, in daily use."
+    photos:
+      - src: "/photos/bathroom-shower-mirror-black-fixtures.jpg"
+        alt: "Finished bathroom with off-white microcement walls, grey microcement floor, round backlit mirror, black shower and toilet fixtures, wood vanity with black sink"
+        caption: "Walls + floor · backlit mirror · black fixtures"
+      - src: "/photos/bathroom-mirror-curtain-warm-light.jpg"
+        alt: "Warm-toned bathroom with microcement walls, round backlit mirror, wood-clad door, black sink on wood vanity"
+        caption: "Warm uplight · wood door · linen curtain"
   - heading: "Walls"
     note: "Indoor walls with hidden lighting, wood pairings, and rounded geometry."
     photos:

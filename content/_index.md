@@ -24,12 +24,12 @@ usps:
 
 gallery_teaser_heading: "Recent finishes"
 gallery_teaser:
+  - image: "/photos/bathroom-shower-mirror-black-fixtures.jpg"
+    alt: "Finished bathroom with off-white microcement walls, grey microcement floor, round backlit mirror and black fixtures"
   - image: "/photos/beige-wall-wood-column-uplight.jpg"
     alt: "Beige microcement wall beside a wood column with hidden LED grazing light"
   - image: "/photos/exterior-white-wall-tropical-view.jpg"
     alt: "White microcement exterior wall with palm trees and distant mountains"
-  - image: "/photos/wall-rounded-corner-texture.jpg"
-    alt: "Curved microcement wall corner showing the smooth-to-textured transition"
 gallery_teaser_cta_label: "Full gallery →"
 gallery_teaser_cta_href: "/gallery/"
 
