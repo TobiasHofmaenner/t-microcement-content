@@ -1,6 +1,6 @@
 ---
 title: "Downloads"
-description: "Product literature for T-Microcement — infosheet and one-page flyer, both PDF."
+description: "Product literature for T-Microcement: infosheet and one-page flyer, both PDF."
 ---
 
 # Downloads
@@ -10,7 +10,7 @@ or send by WhatsApp. Both files are PDFs.
 
 ## Infosheet (multi-page)
 
-The full product deck — overview, key features, the 3-layer system,
+The full product deck: overview, key features, the 3-layer system,
 application notes, technical data, and pricing.
 
 **[Download t-microcement-infosheet.pdf →](/downloads/t-microcement-infosheet.pdf)** · 1.5 MB · 10 pages

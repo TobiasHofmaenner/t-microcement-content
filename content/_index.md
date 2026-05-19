@@ -16,9 +16,9 @@ usps:
   - title: "Designed for the tropics"
     body: "Developed in Bali on a real villa. Mineral system that's UV-stable and stays cool-touch in direct sun, with long-term mould resistance built into the mix."
   - title: "A 3-layer system"
-    body: "Primer, main mix, sealer. 2–3 mm total. Applied directly over what you already have — concrete, tile, plaster, plywood — no demolition."
+    body: "Primer, main mix, sealer. 2–3 mm total. Applied directly over what you already have (concrete, tile, plaster, plywood). No demolition."
   - title: "One year of real use"
-    body: "Lived in for a year on the reference project in Medewi. Walls, floors, bathrooms, exteriors — every photo in the gallery is from the project."
+    body: "Lived in for a year on the reference project in Medewi. Walls, floors, bathrooms, exteriors. Every photo in the gallery is from the project."
   - title: "Repair-friendly"
     body: "Most microcements are hard to patch. Ours sands and re-coats. A small leftover bucket keeps your surfaces looking right for the long haul."
 
@@ -34,7 +34,7 @@ gallery_teaser_cta_label: "Full gallery →"
 gallery_teaser_cta_href: "/gallery/"
 
 closing_heading: "Tell us what you're building."
-closing_body: "Sample by post or a visit to the reference project in Medewi. We sell the material — you (or your contractor) apply. Attractive pricing for early adopters."
+closing_body: "Sample by post or a visit to the reference project in Medewi. We sell the material; you (or your contractor) apply. Attractive pricing for early adopters."
 closing_cta_label: "Start a conversation"
 closing_cta_href: "/contact/"
 ---

@@ -19,23 +19,23 @@ us to film, [drop us a note](/contact/).
 ### How long until I can walk on it?
 
 Around 24 hours, at roughly 80% cure. Full hardness is reached at
-30 days. We recommend going easy on it during the first month —
-no heavy furniture-dragging, no rugs that trap moisture.
+30 days. We recommend going easy on it during the first month: no
+heavy furniture-dragging, no rugs that trap moisture.
 
 ### Can it go over my existing tile / concrete / plywood?
 
-In most cases, yes — that's the point of the system. The primer
+In most cases, yes. That's the point of the system. The primer
 handles adhesion. The substrate has to be sound (not crumbling, not
 moving, not damp), but you don't need to demolish what's there.
 
-### Wall mix or floor mix — which do I need?
+### Wall mix or floor mix?
 
 Two products, sold separately:
 
-- **Wall mix** — smoother feel, no aggregate. For walls (indoor or
-  covered outdoor), vanities, cabinetry, vertical surfaces — anything
+- **Wall mix.** Smoother feel, no aggregate. For walls (indoor or
+  covered outdoor), vanities, cabinetry, vertical surfaces; anything
   that doesn't take foot traffic.
-- **Floor mix** — sand-loaded, slightly rougher feel, much tougher.
+- **Floor mix.** Sand-loaded, slightly rougher feel, much tougher.
   For floors and shower bases.
 
 A bathroom with microcement walls and floor will need some of each.
@@ -45,12 +45,12 @@ A bathroom with microcement walls and floor will need some of each.
 Coverage depends on substrate texture and trowel technique. As a
 rough starting estimate:
 
-- **Main mix (wall or floor)** — one 5 kg bucket = ~2.5 m² finished
-  surface (two coats included)
-- **Primer** — ~5 m² per 5 kg bucket (goes on thinner)
-- **Sealer** — ~5 m² per 5 kg bucket
+- **Main mix (wall or floor).** One 5 kg bucket = ~2.5 m² finished
+  surface (two coats included).
+- **Primer.** ~5 m² per 5 kg bucket (goes on thinner).
+- **Sealer.** ~5 m² per 5 kg bucket.
 
-A worked example — a typical 10 m² bathroom with 3 m² of wall and
+A worked example: a typical 10 m² bathroom with 3 m² of wall and
 7 m² of floor surface would need roughly:
 
 - 4 buckets of floor mix (7 m² ÷ 2.5)
@@ -71,14 +71,14 @@ actively moving or expanding. Site prep is half the job.
 ### What colours can I get?
 
 The default is the natural warm off-white you see in the
-[gallery](/gallery/). Custom tones on request — bring us a reference
+[gallery](/gallery/). Custom tones on request. Bring us a reference
 colour, we'll trowel a sample piece for you to approve before
 committing.
 
 ### Is it really waterproof in bathrooms?
 
-The system as a whole is — **with the sealer applied correctly.**
-Skipping the sealer or rushing the cure time defeats the purpose.
+Yes, with the sealer applied correctly. Skipping the sealer or
+rushing the cure time defeats the purpose.
 
 The sealer is
 [breathable on purpose](/product/#the-sealer-is-breathable-on-purpose),
@@ -87,21 +87,21 @@ two-part epoxy topcoat over our sealer.
 
 ### Can I apply it myself?
 
-Yes — but it's not a brush-it-on product. The look comes from trowel
+Yes, but it's not a brush-it-on product. The look comes from trowel
 technique, and bad trowel work shows. We send written application
 guidance with every order, and we strongly recommend doing a sample
 piece (an offcut board, a hidden patch) before committing to the
 visible surface.
 
-For complex jobs — curved walls, large open floors, anywhere a
-mistake will be hard to walk back — hiring an experienced plasterer
+For complex jobs (curved walls, large open floors, anywhere a
+mistake will be hard to walk back), hiring an experienced plasterer
 is the right call. We're happy to talk through your project before
 you order.
 
 ### What if I damage it?
 
 This is one of the things our system does much better than typical
-microcements — it's repair-friendly:
+microcements. It's repair-friendly:
 
 - **Stain or surface mark** → sandpaper it out, apply a thin re-seal.
 - **Scratch or chip** → trowel a thin layer over the area, blend the
@@ -123,5 +123,5 @@ month before the surface is at full hardness.
 ---
 
 *Have a question that isn't here?*
-[Ask us](/contact/) — we'll answer you, and if it's a good question
-we'll add it to this page.
+[Ask us](/contact/) and we'll answer. If it's a good question we'll
+add it to this page.

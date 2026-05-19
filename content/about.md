@@ -30,14 +30,14 @@ The final mix is a polymer-modified white cement with mineral
 fillers, slow-release antimicrobial minerals, and workability
 admixtures tuned for tropical heat. Everything except the polymer
 is mineral, and the system is fully UV-stable. The sealer is
-silicone-based and applied breathable on purpose — the minerals in
+silicone-based and applied breathable on purpose. The minerals in
 the mix need to keep migrating to the surface to do their job. More
 on [what's in it](/product/#whats-in-it) on the product page.
 
 ## A year on the project
 
 The villa was completed and has been lived in for a year. Walls,
-floors, indoor and covered outdoor surfaces — every photo in
+floors, indoor and covered outdoor surfaces. Every photo in
 [the gallery](/gallery/) is from the project. No cracking, no
 discolouration, no mould, normal wear on the floors that
 sand-and-recoat handles in an afternoon.
@@ -48,17 +48,17 @@ No lab certificates yet. One year of daily use on a real building.
 
 Visitors saw the finish. They asked where to get it. Several wanted
 some for their own projects. After enough of those conversations,
-we decided to make the product available — at a pace we can match.
+we decided to make the product available, at a pace we can match.
 
 The product is young: one detailed reference project, no lab
-certificate yet. We offer **attractive pricing for early customers**
-— get in touch and we'll talk through what makes sense for your
+certificate yet. We offer **attractive pricing for early customers**.
+Get in touch and we'll talk through what makes sense for your
 project.
 
 ## Where we are
 
 Medewi, West Bali. We sell the material; we don't apply it on your
 site. (We'll talk if your case is unusual.) Samples by post, or come
-visit — we'll show you the real thing.
+visit. We'll show you the real thing.
 
 [Tell us about your project →](/contact/) · [Browse the gallery →](/gallery/)
