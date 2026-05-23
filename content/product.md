@@ -91,8 +91,6 @@ As a starting estimate, one 5 kg bucket of main mix covers about
 The [know-how page](/know-how/#how-much-do-i-need) has a worked
 example for a typical bathroom.
 
-Contractors and dealers get volume discounts. No formal dealer
-programme yet, just a real conversation.
 [Get in touch](/contact/) with rough project numbers and we'll
 suggest a starting order.
 
