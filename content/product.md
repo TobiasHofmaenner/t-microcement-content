@@ -83,7 +83,7 @@ Four SKUs, all sold as 5 kg buckets:
 - **Floor mix** (sand-loaded)
 - **Sealer**
 
-**End-customer price: 750,000–850,000 IDR per bucket.**
+**End-customer price: 800,000 IDR per bucket.**
 
 Coverage depends heavily on substrate texture and trowel technique.
 As a starting estimate, one 5 kg bucket of main mix covers about
