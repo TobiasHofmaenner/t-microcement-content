@@ -90,6 +90,7 @@ If you're not sure whether an edit is safe, preview locally first
 
 You need [Hugo extended](https://gohugo.io/installation/) installed
 locally (any recent version is fine; the production build uses 0.140).
+On Windows: `winget install Hugo.Hugo.Extended`.
 
 ```bash
 git clone https://github.com/TobiasHofmaenner/t-microcement-content.git
