@@ -365,6 +365,42 @@ main { padding: 0 0 6rem; }
 .site-footer a:hover { color: var(--fg); }
 .foot-legal { color: var(--muted); }
 
+/* ------- Downloads ------- */
+.downloads {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: var(--gap-l);
+  margin: 1.5rem 0 2rem;
+  max-width: var(--maxw-r);
+}
+.download-card {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-soft);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.download-preview {
+  display: block;
+  border-bottom: 1px solid var(--line);
+  background: var(--bg);
+}
+.download-preview img {
+  width: 100%;
+  height: auto;
+  transition: opacity 0.2s ease;
+}
+.download-preview:hover img { opacity: 0.92; }
+.download-meta { padding: 0.9rem 1rem 1.1rem; }
+.download-meta h3 { margin: 0 0 0.25rem; font-size: 1.05rem; }
+.download-meta p {
+  margin: 0 0 0.6rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+  max-width: none;
+}
+
 /* ------- Reduced motion ------- */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {

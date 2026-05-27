@@ -1,30 +1,47 @@
 ---
 title: "Downloads"
-description: "Product literature for T-Microcement."
+description: "Product literature for T-Microcement: a visual product overview and a one-page flyer, both PDF."
 ---
 
 # Downloads
 
-We're updating the product literature. The refreshed infosheet and
-flyer will go up here shortly, shown as a preview you can read at a
-glance, with the PDF available to download.
+Product literature you can read at a glance, print for site visits, or
+share by WhatsApp. Click a preview to open the full PDF.
 
-Need something now? [Message us on WhatsApp](/contact/) and we'll
-send the current material directly.
+<div class="downloads">
+
+  <div class="download-card">
+    <a class="download-preview" href="/downloads/t-microcement-product-overview.pdf">
+      <img src="/downloads/t-microcement-product-overview.png" alt="T-Microcement product overview, page preview">
+    </a>
+    <div class="download-meta">
+      <h3>Product overview</h3>
+      <p>A visual walk-through of the system, the finishes, and where it works.</p>
+      <a href="/downloads/t-microcement-product-overview.pdf">Download PDF · 310 KB</a>
+    </div>
+  </div>
+
+  <div class="download-card">
+    <a class="download-preview" href="/downloads/t-microcement-flyer.pdf">
+      <img src="/downloads/t-microcement-flyer.png" alt="T-Microcement one-page flyer, page preview">
+    </a>
+    <div class="download-meta">
+      <h3>One-page flyer</h3>
+      <p>A single-page summary, designed to print or share as one image.</p>
+      <a href="/downloads/t-microcement-flyer.pdf">Download PDF · 525 KB</a>
+    </div>
+  </div>
+
+</div>
 
 <!--
-Editor note: how to restore the downloads once the new files exist.
+Editor note: how downloads work.
 
-1. PDFs go in  static/downloads/   (served at /downloads/<file>.pdf)
-2. Preview images go in static/downloads/ too, e.g.
-   infosheet-preview.jpg and flyer-preview.jpg
-3. To show a clickable preview that opens the PDF, use a linked image
-   followed by a plain download link, e.g.:
+Files live in static/downloads/ (served at /downloads/<file>).
+Each card needs a PDF plus a preview image (PNG/JPG).
 
-   [![Infosheet preview](/downloads/infosheet-preview.jpg)](/downloads/t-microcement-infosheet.pdf)
-
-   **[Download t-microcement-infosheet.pdf →](/downloads/t-microcement-infosheet.pdf)**
-
-Drop the new PDF + preview image into static/downloads/ and this page
-can be wired up.
+To add the multi-page infosheet once it has a preview image and
+confirmed current pricing, copy this card and point it at:
+  /downloads/t-microcement-infosheet.pdf   (already in static/downloads/)
+  /downloads/t-microcement-infosheet.png   (preview image, not yet provided)
 -->
