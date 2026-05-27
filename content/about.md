@@ -42,7 +42,7 @@ floors, indoor and covered outdoor surfaces. Every photo in
 discolouration, no mould, normal wear on the floors that
 sand-and-recoat handles in an afternoon.
 
-No lab certificates yet. One year of daily use on a real building.
+One year of daily use on a real building.
 
 ## Why we're selling it now
 
@@ -57,7 +57,7 @@ project.
 
 ## Where we are
 
-Medewi, West Bali. We sell the material; we don't apply it on your
+In Bali. We sell the material; we don't apply it on your
 site. (We'll talk if your case is unusual.) Samples by post, or come
 visit. We'll show you the real thing.
 

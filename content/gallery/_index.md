@@ -41,18 +41,15 @@ groups:
       - src: "/photos/microcement-floor-meets-wood-wall.jpg"
         alt: "Grey microcement floor meeting a teak-toned wood wall panel"
         caption: "Floor meets wood · material pairing"
+      - src: "/photos/microcement-texture-grey.jpg"
+        alt: "Pure mid-grey microcement surface showing soft cloud-like mottling"
+        caption: "Grey · cloud mottling"
   - heading: "Exterior"
     note: "Outdoor application on facades and covered exteriors."
     photos:
       - src: "/photos/exterior-white-wall-tropical-view.jpg"
         alt: "White microcement exterior wall on a sunny day with palm trees, green field and distant mountains"
         caption: "White exterior · tropical setting"
-  - heading: "Texture"
-    note: "Close-ups of the finished surface itself."
-    photos:
-      - src: "/photos/microcement-texture-grey.jpg"
-        alt: "Pure mid-grey microcement surface showing soft cloud-like mottling"
-        caption: "Grey · cloud mottling"
 ---
 
 A working sample of recent finishes. Each photo is real work; no

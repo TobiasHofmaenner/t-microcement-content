@@ -1,0 +1,3 @@
+# Hugo build output and lock file (generated locally; built in CI)
+/public/
+.hugo_build.lock

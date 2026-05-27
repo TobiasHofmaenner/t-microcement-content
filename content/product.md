@@ -12,7 +12,7 @@ We sell the material. You or your contractor apply it. We're not an
 applicator service, though we're happy to talk through unusual cases
 before you order.
 
-## The 3-layer system
+## 3-layer system
 
 The system is three separate products. Most projects order all three.
 

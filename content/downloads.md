@@ -1,29 +1,30 @@
 ---
 title: "Downloads"
-description: "Product literature for T-Microcement: infosheet and one-page flyer, both PDF."
+description: "Product literature for T-Microcement."
 ---
 
 # Downloads
 
-Product literature you can share with clients, print for site visits,
-or send by WhatsApp. Both files are PDFs.
+We're updating the product literature. The refreshed infosheet and
+flyer will go up here shortly, shown as a preview you can read at a
+glance, with the PDF available to download.
 
-## Infosheet (multi-page)
+Need something now? [Message us on WhatsApp](/contact/) and we'll
+send the current material directly.
 
-The full product deck: overview, key features, the 3-layer system,
-application notes, technical data, and pricing.
+<!--
+Editor note: how to restore the downloads once the new files exist.
 
-**[Download t-microcement-infosheet.pdf →](/downloads/t-microcement-infosheet.pdf)** · 1.5 MB · 10 pages
+1. PDFs go in  static/downloads/   (served at /downloads/<file>.pdf)
+2. Preview images go in static/downloads/ too, e.g.
+   infosheet-preview.jpg and flyer-preview.jpg
+3. To show a clickable preview that opens the PDF, use a linked image
+   followed by a plain download link, e.g.:
 
-## One-page flyer
+   [![Infosheet preview](/downloads/infosheet-preview.jpg)](/downloads/t-microcement-infosheet.pdf)
 
-Single-page summary, designed to print or share as one image.
+   **[Download t-microcement-infosheet.pdf →](/downloads/t-microcement-infosheet.pdf)**
 
-**[Download t-microcement-flyer.pdf →](/downloads/t-microcement-flyer.pdf)** · 170 KB · 1 page
-
----
-
-*Note for the editor.* These files live in `static/downloads/` in the
-content repo. To update them, drop a replacement file in the same
-location with the same filename and commit. The site picks up the
-change on the next rebuild.
+Drop the new PDF + preview image into static/downloads/ and this page
+can be wired up.
+-->
