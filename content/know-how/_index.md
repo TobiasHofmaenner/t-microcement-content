@@ -45,18 +45,18 @@ A bathroom with microcement walls and floor will need some of each.
 Coverage depends on substrate texture and trowel technique. As a
 rough starting estimate:
 
-- **Main mix (wall or floor).** One 5 kg bucket = ~2.5 m² finished
-  surface (two coats included).
-- **Primer.** ~5 m² per 5 kg bucket (goes on thinner).
-- **Sealer.** ~5 m² per 5 kg bucket.
+- **Base (wall or floor).** One 5 kg bucket of wall mix = ~2.5 m²
+  finished surface (two coats included). Floor mix comes in 7 kg
+  buckets.
+- **Primer.** Sold in 1 L bottles. Coverage depends on the surface.
+- **Sealer.** Sold in 1 L bottles. Coverage depends on the surface.
 
 A worked example: a typical 10 m² bathroom with 3 m² of wall and
 7 m² of floor surface would need roughly:
 
 - 4 buckets of floor mix (7 m² ÷ 2.5)
 - 2 buckets of wall mix (3 m² ÷ 2.5, rounded up)
-- 2 buckets of primer
-- 2 buckets of sealer
+- primer and sealer to match; bottle coverage depends on the surface
 
 Rough surfaces drink more material than smooth ones. If you're not
 sure, [send us your numbers](/contact/) and we'll suggest a starting
@@ -115,7 +115,7 @@ looking right for the long haul. Hold onto a bit from every order.
 ### How long does a project take?
 
 Application is usually 3–5 days of on-site work for an average room,
-spread across primer, two coats of main mix, and sealer. Add the
+spread across primer, two coats of base, and sealer. Add the
 24-hour walk-on cure and the 30-day full-cure window before heavy
 use, and you're looking at roughly a week before everyday use and a
 month before the surface is at full hardness.

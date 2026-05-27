@@ -85,8 +85,8 @@ Four products, sold separately. End-customer prices:
 | **T-Microcement Base**, floor mix (sand-loaded) | 7 kg bucket | 850,000 IDR |
 | **T-Microcement Sealer** | 1 L bottle | 200,000 IDR |
 
-The base mixes are a dry powder. You add clean water on site to bring
-them to trowelling consistency; the water isn't included.
+The base bucket contains a powder and a liquid component. You add
+clean water on site to mix them; the water isn't included.
 
 Coverage depends heavily on substrate texture and trowel technique.
 As a starting estimate, one 5 kg bucket of wall mix covers about
