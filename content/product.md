@@ -3,7 +3,7 @@ title: "The product"
 description: "How T-Microcement is built: a 3-layer system, what's in it, what it's good at, and what it isn't."
 ---
 
-# The product
+# THE PRODUCT
 
 T-Microcement is a polymer-modified cement finish, applied 2–3 mm
 thin, over your existing walls, floors, bathrooms, or furniture.
