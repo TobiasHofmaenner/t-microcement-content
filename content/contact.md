@@ -33,9 +33,10 @@ What we send and do:
 
 ## Pricing & ordering
 
-- **Material-only.** Primer, wall mix, floor mix, sealer; sold as
-  5 kg buckets.
-- **End-customer price.** 800,000 IDR per bucket.
+- **Material-only.** Primer and sealer in 1 L bottles; base sold as
+  a wall mix (5 kg bucket) and a floor mix (7 kg bucket).
+- **End-customer price.** Starts at 100,000 IDR.
+  [See the full price list →](/product/#pricing)
 - **Early adopters.** Pricing is intentionally friendly for the
   first wave of customers.
   [See the product page →](/product/#attractive-pricing-for-early-adopters)

@@ -16,7 +16,7 @@ usps:
   - title: "Designed for the tropics"
     body: "Developed in Bali on a real villa. Mineral system that's UV-stable and stays cool-touch in direct sun, with long-term mould resistance built into the mix."
   - title: "A 3-layer system"
-    body: "Primer, main mix, sealer. 2–3 mm total. Applied directly over what you already have (concrete, tile, plaster, plywood). No demolition."
+    body: "Primer, base, sealer. 2–3 mm total. Applied directly over what you already have (concrete, tile, plaster, plywood). No demolition."
   - title: "One year of real use"
     body: "Lived in for a year on the reference project in Medewi. Walls, floors, bathrooms, exteriors. Every photo in the gallery is from the project."
   - title: "Repair-friendly"

@@ -18,9 +18,9 @@ The system is three separate products. Most projects order all three.
 
 | Layer | What it does |
 |---|---|
-| **Primer** | Bonds the system to whatever you're coating (concrete, plaster, tile, plywood). The right primer is what lets the cement go directly over existing substrates without demolition. |
-| **Main mix** | The look layer. Trowelled by hand in two thin passes. Available as a **wall mix** (smoother, no aggregate) or a **floor mix** (sand-loaded, rougher, tougher under traffic). |
-| **Sealer** | A breathable silicone-based topcoat. Locks in water resistance without sealing the surface hermetically. There's a reason for that ([below](#the-sealer-is-breathable-on-purpose)). |
+| **T-Microcement Primer** | Bonds the system to whatever you're coating (concrete, plaster, tile, plywood). The right primer is what lets the cement go directly over existing substrates without demolition. |
+| **T-Microcement Base** | The look layer. Trowelled by hand in two thin passes. Available as a **wall mix** (smoother, no aggregate) or a **floor mix** (sand-loaded, rougher, tougher under traffic). |
+| **T-Microcement Sealer** | A breathable silicone-based topcoat. Locks in water resistance without sealing the surface hermetically. There's a reason for that ([below](#the-sealer-is-breathable-on-purpose)). |
 
 ## What's in it
 
@@ -76,17 +76,20 @@ you'll need. We recommend holding back a bucket from every order.
 
 ## Pricing
 
-Four SKUs, all sold as 5 kg buckets:
+Four products, sold separately. End-customer prices:
 
-- **Primer**
-- **Wall mix** (smoother)
-- **Floor mix** (sand-loaded)
-- **Sealer**
+| Product | Packaging | Price |
+|---|---|---|
+| **T-Microcement Primer** | 1 L bottle | 100,000 IDR |
+| **T-Microcement Base**, wall mix (smoother) | 5 kg bucket | 800,000 IDR |
+| **T-Microcement Base**, floor mix (sand-loaded) | 7 kg bucket | 850,000 IDR |
+| **T-Microcement Sealer** | 1 L bottle | 200,000 IDR |
 
-**End-customer price: 800,000 IDR per bucket.**
+The base mixes are a dry powder. You add clean water on site to bring
+them to trowelling consistency; the water isn't included.
 
 Coverage depends heavily on substrate texture and trowel technique.
-As a starting estimate, one 5 kg bucket of main mix covers about
+As a starting estimate, one 5 kg bucket of wall mix covers about
 2.5 m² (two coats). Primer and sealer go on thinner and cover more.
 The [know-how page](/know-how/#how-much-do-i-need) has a worked
 example for a typical bathroom.
