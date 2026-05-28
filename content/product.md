@@ -76,14 +76,17 @@ you'll need. We recommend holding back a bucket from every order.
 
 ## Pricing
 
-Four products, sold separately. End-customer prices and coverage:
+Sold separately, with the base in two stock colours (pearl, silver).
+End-customer prices and coverage:
 
-| Product | Packaging | Coverage | Price |
-|---|---|---|---|
-| **T-Microcement Primer** | 1 L bottle | ~12 m² | 100,000 IDR |
-| **T-Microcement Base**, wall mix (smoother) | 5 kg bucket | ~3 m² | 800,000 IDR |
-| **T-Microcement Base**, floor mix (sand-loaded) | 7 kg bucket | ~3 m² | 850,000 IDR |
-| **T-Microcement Sealer** | 1 L bottle | ~6 m² | 200,000 IDR |
+| Code | Product | Packaging | Coverage | Price |
+|---|---|---|---|---|
+| **TM-PR-01** | T-Microcement Primer | 1 L bottle | ~12 m² | 100,000 IDR |
+| **TM-BW-01** | T-Microcement Base, wall mix, pearl | 5 kg bucket | ~3 m² | 800,000 IDR |
+| **TM-BW-02** | T-Microcement Base, wall mix, silver | 5 kg bucket | ~3 m² | 800,000 IDR |
+| **TM-BF-01** | T-Microcement Base, floor mix, pearl | 7 kg bucket | ~3 m² | 850,000 IDR |
+| **TM-BF-02** | T-Microcement Base, floor mix, silver | 7 kg bucket | ~3 m² | 850,000 IDR |
+| **TM-SE-01** | T-Microcement Sealer | 1 L bottle | ~6 m² | 200,000 IDR |
 
 The base bucket contains a powder and a liquid component. You add
 clean water on site to mix them; the water isn't included.
