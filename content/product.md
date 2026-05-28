@@ -76,23 +76,22 @@ you'll need. We recommend holding back a bucket from every order.
 
 ## Pricing
 
-Four products, sold separately. End-customer prices:
+Four products, sold separately. End-customer prices and coverage:
 
-| Product | Packaging | Price |
-|---|---|---|
-| **T-Microcement Primer** | 1 L bottle | 100,000 IDR |
-| **T-Microcement Base**, wall mix (smoother) | 5 kg bucket | 800,000 IDR |
-| **T-Microcement Base**, floor mix (sand-loaded) | 7 kg bucket | 850,000 IDR |
-| **T-Microcement Sealer** | 1 L bottle | 200,000 IDR |
+| Product | Packaging | Coverage | Price |
+|---|---|---|---|
+| **T-Microcement Primer** | 1 L bottle | ~12 m² | 100,000 IDR |
+| **T-Microcement Base**, wall mix (smoother) | 5 kg bucket | ~3 m² | 800,000 IDR |
+| **T-Microcement Base**, floor mix (sand-loaded) | 7 kg bucket | ~3 m² | 850,000 IDR |
+| **T-Microcement Sealer** | 1 L bottle | ~6 m² | 200,000 IDR |
 
 The base bucket contains a powder and a liquid component. You add
 clean water on site to mix them; the water isn't included.
 
-Coverage depends heavily on substrate texture and trowel technique.
-As a starting estimate, one 5 kg bucket of wall mix covers about
-2.5 m² (two coats). Primer and sealer go on thinner and cover more.
-The [know-how page](/know-how/#how-much-do-i-need) has a worked
-example for a typical bathroom.
+Coverage depends heavily on substrate texture and trowel technique;
+the figures above are starting estimates. The
+[know-how page](/know-how/#how-much-do-i-need) has a worked example
+for a typical bathroom.
 
 [Get in touch](/contact/) with rough project numbers and we'll
 suggest a starting order.

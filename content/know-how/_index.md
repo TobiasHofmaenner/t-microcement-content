@@ -45,18 +45,18 @@ A bathroom with microcement walls and floor will need some of each.
 Coverage depends on substrate texture and trowel technique. As a
 rough starting estimate:
 
-- **Base (wall or floor).** One 5 kg bucket of wall mix = ~2.5 m²
-  finished surface (two coats included). Floor mix comes in 7 kg
-  buckets.
-- **Primer.** Sold in 1 L bottles. Coverage depends on the surface.
-- **Sealer.** Sold in 1 L bottles. Coverage depends on the surface.
+- **Base.** ~3 m² per bucket. Wall mix is a 5 kg bucket, floor mix a
+  7 kg bucket.
+- **Primer.** ~12 m² per 1 L bottle.
+- **Sealer.** ~6 m² per 1 L bottle.
 
 A worked example: a typical 10 m² bathroom with 3 m² of wall and
 7 m² of floor surface would need roughly:
 
-- 4 buckets of floor mix (7 m² ÷ 2.5)
-- 2 buckets of wall mix (3 m² ÷ 2.5, rounded up)
-- primer and sealer to match; bottle coverage depends on the surface
+- 3 buckets of floor mix (7 m² ÷ 3, rounded up)
+- 1 bucket of wall mix (3 m² ÷ 3)
+- 1 bottle of primer (10 m² ÷ 12, rounded up)
+- 2 bottles of sealer (10 m² ÷ 6, rounded up)
 
 Rough surfaces drink more material than smooth ones. If you're not
 sure, [send us your numbers](/contact/) and we'll suggest a starting
