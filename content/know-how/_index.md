@@ -70,10 +70,11 @@ actively moving or expanding. Site prep is half the job.
 
 ### What colours can I get?
 
-The default is the natural warm off-white you see in the
-[gallery](/gallery/). Custom tones on request. Bring us a reference
-colour, we'll trowel a sample piece for you to approve before
-committing.
+Two stock colours: **pearl** and **silver**. Both are shown across
+the [gallery](/gallery/). We don't do custom mixes. A new colour
+palette is in development. If you have a question about how either
+reads in a particular space or alongside a specific material,
+[ask us](/contact/) and we'll send extra photos.
 
 ### Is it really waterproof in bathrooms?
 

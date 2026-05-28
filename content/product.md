@@ -28,7 +28,7 @@ A dozen components, organised in roughly four families:
 
 - **The binder.** A white-cement base, polymer-modified for elasticity so it handles normal building movement without cracking.
 - **The mineral matrix.** Fine fillers and a clay-derived pozzolan that densify the cured film and stabilise the cement chemistry.
-- **The surface chemistry.** Pigments for the natural off-white default, sunlight-reflecting minerals that keep the surface cool-touch in direct sun, and slow-release minerals that inhibit mould long-term.
+- **The surface chemistry.** Mineral pigments for the stock colours, sunlight-reflecting minerals that keep the surface cool-touch in direct sun, and slow-release minerals that inhibit mould long-term.
 - **Workability.** Rheology and set-time admixtures so the mix trowels smoothly on vertical surfaces, stays workable in 30 °C ambient, and doesn't sag.
 
 Everything except the polymer is mineral. The system is **100% UV
