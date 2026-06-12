@@ -28,13 +28,14 @@ In most cases, yes. That's the point of the system. The primer
 handles adhesion. The substrate has to be sound (not crumbling, not
 moving, not damp), but you don't need to demolish what's there.
 
-### Wall mix or floor mix?
+### Which base mix do I need?
 
-Two products, sold separately:
+Two mixes, sold separately:
 
-- **Wall mix.** Smoother feel, no aggregate. For walls (indoor or
-  covered outdoor), vanities, cabinetry, vertical surfaces; anything
-  that doesn't take foot traffic.
+- **Wall and ceiling mix.** Smoother feel, no aggregate. For walls,
+  ceilings, vanities, cabinetry, and other vertical or overhead
+  surfaces (indoor or covered outdoor); anything that doesn't take
+  foot traffic.
 - **Floor mix.** Sand-loaded, slightly rougher feel, much tougher.
   For floors and shower bases.
 
@@ -45,16 +46,16 @@ A bathroom with microcement walls and floor will need some of each.
 Coverage depends on substrate texture and trowel technique. As a
 rough starting estimate:
 
-- **Base.** ~3 m² per bucket. Wall mix is a 5 kg bucket, floor mix a
-  7 kg bucket.
+- **Base.** ~6 m² per bucket. Wall and ceiling mix is a 10 kg bucket,
+  floor mix a 15 kg bucket.
 - **Primer.** ~12 m² per 1 L bottle.
 - **Sealer.** ~6 m² per 1 L bottle.
 
 A worked example: a typical 10 m² bathroom with 3 m² of wall and
 7 m² of floor surface would need roughly:
 
-- 3 buckets of floor mix (7 m² ÷ 3, rounded up)
-- 1 bucket of wall mix (3 m² ÷ 3)
+- 2 buckets of floor mix (7 m² ÷ 6, rounded up)
+- 1 bucket of wall and ceiling mix (3 m² ÷ 6, rounded up)
 - 1 bottle of primer (10 m² ÷ 12, rounded up)
 - 2 bottles of sealer (10 m² ÷ 6, rounded up)
 

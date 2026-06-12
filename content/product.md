@@ -19,7 +19,7 @@ The system is three separate products. Most projects order all three.
 | Layer | What it does |
 |---|---|
 | **T-Microcement Primer** | Bonds the system to whatever you're coating (concrete, plaster, tile, plywood). The right primer is what lets the cement go directly over existing substrates without demolition. |
-| **T-Microcement Base** | The look layer. Trowelled by hand in two thin passes. Available as a **wall mix** (smoother, no aggregate) or a **floor mix** (sand-loaded, rougher, tougher under traffic). |
+| **T-Microcement Base** | The look layer. Trowelled by hand in two thin passes. Available as a **wall and ceiling mix** (smoother, no aggregate) or a **floor mix** (sand-loaded, rougher, tougher under traffic). |
 | **T-Microcement Sealer** | A breathable silicone-based topcoat. Locks in water resistance without sealing the surface hermetically. There's a reason for that ([below](#the-sealer-is-breathable-on-purpose)). |
 
 ## What's in it
@@ -37,7 +37,7 @@ stable**: it doesn't yellow or fade like resin-based "microcements"
 
 ## Where it works
 
-- **Walls.** Accent walls, full rooms, indoor or covered outdoor.
+- **Walls and ceilings.** Accent walls, full rooms, indoor or covered outdoor.
 - **Floors.** Residential and light commercial. 3 mm thin, no thresholds, no level changes.
 - **Bathrooms.** Walls, floors, shower areas. Waterproof with the sealer applied correctly.
 - **Furniture & cabinetry.** Built-ins, vanities, custom pieces.
@@ -82,10 +82,10 @@ End-customer prices and coverage:
 | Code | Product | Packaging | Coverage | Price |
 |---|---|---|---|---|
 | **TM-PR-01** | T-Microcement Primer | 1 L bottle | ~12 m² | 100,000 IDR |
-| **TM-BW-01** | T-Microcement Base, wall mix, pearl | 5 kg bucket | ~3 m² | 800,000 IDR |
-| **TM-BW-02** | T-Microcement Base, wall mix, silver | 5 kg bucket | ~3 m² | 800,000 IDR |
-| **TM-BF-01** | T-Microcement Base, floor mix, pearl | 7 kg bucket | ~3 m² | 850,000 IDR |
-| **TM-BF-02** | T-Microcement Base, floor mix, silver | 7 kg bucket | ~3 m² | 850,000 IDR |
+| **TM-BW-01** | T-Microcement Base, wall and ceiling mix, pearl | 10 kg bucket | ~6 m² | 1,200,000 IDR |
+| **TM-BW-02** | T-Microcement Base, wall and ceiling mix, silver | 10 kg bucket | ~6 m² | 1,200,000 IDR |
+| **TM-BF-01** | T-Microcement Base, floor mix, pearl | 15 kg bucket | ~6 m² | 1,400,000 IDR |
+| **TM-BF-02** | T-Microcement Base, floor mix, silver | 15 kg bucket | ~6 m² | 1,400,000 IDR |
 | **TM-SE-01** | T-Microcement Sealer | 1 L bottle | ~6 m² | 200,000 IDR |
 
 The base bucket contains a powder and a liquid component. You add
