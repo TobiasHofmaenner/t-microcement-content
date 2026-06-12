@@ -79,6 +79,8 @@ you'll need. We recommend holding back a bucket from every order.
 Sold separately, with the base in two stock colours (pearl, silver).
 End-customer prices and coverage:
 
+<div class="pricing-table">
+
 | Code | Product | Packaging | Coverage | Price |
 |---|---|---|---|---|
 | **TM-PR-01** | T-Microcement Primer | 1 L bottle | ~12 m² | 100,000 IDR |
@@ -87,6 +89,8 @@ End-customer prices and coverage:
 | **TM-BF-01** | T-Microcement Base, floor mix, pearl | 15 kg bucket | ~6 m² | 1,400,000 IDR |
 | **TM-BF-02** | T-Microcement Base, floor mix, silver | 15 kg bucket | ~6 m² | 1,400,000 IDR |
 | **TM-SE-01** | T-Microcement Sealer | 1 L bottle | ~6 m² | 200,000 IDR |
+
+</div>
 
 The base bucket contains a powder and a liquid component. You add
 clean water on site to mix them; the water isn't included.

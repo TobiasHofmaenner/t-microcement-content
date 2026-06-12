@@ -96,6 +96,27 @@ th {
   white-space: nowrap;
 }
 
+/* Pricing table on /product/: keep code, packaging, coverage, and price on one
+   line each; only the long Product column is allowed to wrap. Wrapper scrolls
+   horizontally if the viewport is too narrow. */
+.pricing-table {
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 1rem 0 1.5rem;
+}
+.pricing-table table {
+  max-width: none;
+  margin: 0;
+}
+.pricing-table th,
+.pricing-table td {
+  white-space: nowrap;
+}
+.pricing-table td:nth-child(2) {
+  white-space: normal;
+  min-width: 14rem;
+}
+
 /* ------- Buttons ------- */
 .btn {
   display: inline-block;
