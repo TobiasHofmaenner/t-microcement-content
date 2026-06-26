@@ -1,0 +1,58 @@
+name: notify-builder
+
+# Tells tobiashofmaenner/t-microcement-website-builder to start its
+# Release workflow as soon as content lands on main, so the cluster
+# picks up content changes within ~1 min instead of waiting for the
+# builder's daily safety-net cron.
+#
+# Permission boundary: BUILDER_DISPATCH_PAT is a fine-grained PAT
+# scoped to the builder repo with ONLY Actions:Read+Write. It can
+# trigger workflow runs by name (this workflow specifically targets
+# release.yml) but CANNOT push code, modify workflows, or touch repo
+# contents. So even if this content repo is compromised, an attacker
+# can't ship a malicious Dockerfile or build script — the two-repo
+# split holds.
+
+on:
+  push:
+    branches: [main]
+    # Notify when content changes, but also when this workflow itself
+    # changes (so a workflow fix gets self-tested on the next commit).
+    paths:
+      - 'content/**'
+      - 'static/**'
+      - 'assets/**'
+      - 'layouts/**'
+      - 'hugo.toml'
+      - '.github/workflows/notify-builder.yml'
+
+permissions: {}   # this workflow needs no GITHUB_TOKEN scopes
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fire workflow_dispatch on builder repo
+        env:
+          BUILDER_REPO: tobiashofmaenner/t-microcement-website-builder
+          WORKFLOW_FILE: release.yml
+          PAT: ${{ secrets.BUILDER_DISPATCH_PAT }}
+        run: |
+          set -euo pipefail
+          # The dispatch endpoint takes `ref` (the builder repo's branch
+          # to run the workflow on, not this repo's ref). Always main:
+          # we always want the builder's main release.yml to build the
+          # latest content from this repo's main.
+          HTTP=$(curl -sS -o /tmp/resp.json -w '%{http_code}' \
+            -X POST "https://api.github.com/repos/${BUILDER_REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches" \
+            -H "Authorization: Bearer ${PAT}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            -d '{"ref":"main"}')
+          if [ "$HTTP" != "204" ]; then
+            echo "::error::dispatch failed with HTTP $HTTP"
+            cat /tmp/resp.json
+            exit 1
+          fi
+          echo "Dispatched ${WORKFLOW_FILE} on ${BUILDER_REPO} for commit ${GITHUB_SHA}." \
+            >> "$GITHUB_STEP_SUMMARY"
