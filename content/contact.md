@@ -53,5 +53,3 @@ What we send and do:
 
 If your project is one of these, tell us anyway. We may still be
 the right fit, or we might be able to point you somewhere that is.
-
-<!-- pipeline-timing-probe-1782516750 -->
