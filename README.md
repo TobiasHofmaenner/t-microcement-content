@@ -35,7 +35,7 @@ content/product.md         # Product page
 content/contact.md         # Contact page
 content/downloads.md       # Downloads page
 content/gallery/_index.md  # Gallery (groups + photo lists)
-content/know-how/_index.md # Know-how (Q&A, application notes)
+content/guide/_index.md    # Guide (Q&A, application notes, tutorials)
 ```
 
 The `---` block at the top of each file (the **front matter**) holds

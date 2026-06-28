@@ -97,7 +97,7 @@ clean water on site to mix them; the water isn't included.
 
 Coverage depends heavily on substrate texture and trowel technique;
 the figures above are starting estimates. The
-[know-how page](/know-how/#how-much-do-i-need) has a worked example
+[guide](/guide/#how-much-do-i-need) has a worked example
 for a typical bathroom.
 
 [Get in touch](/contact/) with rough project numbers and we'll

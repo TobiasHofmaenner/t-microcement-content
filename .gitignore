@@ -1,3 +1,7 @@
 # Hugo build output and lock file (generated locally; built in CI)
 /public/
 .hugo_build.lock
+
+# Source video files — these belong on YouTube, not in the repo
+*.mp4
+*.mov

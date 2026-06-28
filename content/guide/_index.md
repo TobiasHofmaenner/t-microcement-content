@@ -1,9 +1,11 @@
 ---
-title: "Know-how"
+title: "Guide"
 description: "How to apply T-Microcement, how to live with it, and answers to the questions we get asked most."
+aliases:
+  - /know-how/
 ---
 
-# Know-how
+# Guide
 
 A working library of how T-Microcement is applied and how to live
 with it day to day. We add to this as questions come in.
