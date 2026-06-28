@@ -422,6 +422,38 @@ main { padding: 0 0 6rem; }
   max-width: none;
 }
 
+/* ------- Founders page ------- */
+.founders {
+  display: grid;
+  gap: 2.5rem;
+  margin: 2rem 0 2.5rem;
+  max-width: none;
+}
+.founder {
+  display: grid;
+  grid-template-columns: minmax(180px, 240px) 1fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+.founder-photo {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: var(--radius);
+  background: var(--bg-soft);
+  display: block;
+}
+.founder-bio h2 { margin-top: 0; }
+.founder-bio p:last-child { margin-bottom: 0; }
+@media (max-width: 640px) {
+  .founder {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    max-width: 24rem;
+  }
+}
+
 /* ------- Reduced motion ------- */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
