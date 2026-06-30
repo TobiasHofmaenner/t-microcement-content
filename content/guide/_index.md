@@ -27,8 +27,10 @@ heavy furniture-dragging, no rugs that trap moisture.
 ### Can it go over my existing tile / concrete / plywood?
 
 In most cases, yes. That's the point of the system. The primer
-handles adhesion. The substrate has to be sound (not crumbling, not
-moving, not damp), but you don't need to demolish what's there.
+handles adhesion. Tile, concrete, brick, terrazzo, plywood, and most
+other hard, sound substrates work. What the substrate has to be is
+sound (not crumbling, not moving, not damp), but you don't need to
+demolish what's there.
 
 ### Which base mix do I need?
 
@@ -71,6 +73,13 @@ The polymer modification gives it some flex, so normal building
 movement is fine. What it can't do is hide a substrate that's
 actively moving or expanding. Site prep is half the job.
 
+### Will the colour fade?
+
+No. The system is fully UV stable. Mineral pigments don't yellow or
+fade, indoor or covered outdoor. After a year of tropical sun on the
+reference project, including covered outdoor surfaces exposed daily,
+we see no visible change.
+
 ### What colours can I get?
 
 Two stock colours: **pearl** and **silver**. Both are shown across
@@ -89,6 +98,13 @@ The sealer is
 so it's not fully stain-proof. For counters or tables, plan on a
 two-part epoxy topcoat over our sealer.
 
+### Can it get mouldy?
+
+The microcement itself doesn't grow mould. Slow-release antimicrobial
+minerals in the mix keep migrating to the surface as the system ages.
+What surrounds it (silicone, grout, untreated wood, drywall) can
+still grow mould in tropical conditions; that part we don't control.
+
 ### Can I apply it myself?
 
 Yes, but it's not a brush-it-on product. The look comes from trowel
@@ -101,6 +117,12 @@ For complex jobs (curved walls, large open floors, anywhere a
 mistake will be hard to walk back), hiring an experienced plasterer
 is the right call. We're happy to talk through your project before
 you order.
+
+### Do you apply it for us?
+
+No. T-Microcement is material-only. We sell the buckets; you (or
+your contractor) apply. We're happy to talk through unusual cases
+before you order, but we don't run an applicator service.
 
 ### Do I need to sand the base coat before sealing?
 
@@ -123,6 +145,15 @@ microcements. It's repair-friendly:
 A small leftover bucket and a sanding sponge keep your surfaces
 looking right for the long haul. Hold onto a bit from every order.
 
+### How long until it needs maintenance?
+
+We have a year of daily use on the reference project, and the finish
+still looks new. When floors in high-traffic spots eventually show
+wear, a light sand-and-reseal takes an afternoon. Walls and ceilings
+typically don't need anything. Hold onto a small leftover bucket
+from your order; that covers most of what you'll need over the long
+run.
+
 ### How long does a project take?
 
 Application is usually 3–5 days of on-site work for an average room,
@@ -130,6 +161,26 @@ spread across primer, two coats of base, and sealer. Add the
 24-hour walk-on cure and the 30-day full-cure window before heavy
 use, and you're looking at roughly a week before everyday use and a
 month before the surface is at full hardness.
+
+### Do you offer a warranty?
+
+No. We sell material; you (or your contractor) apply. The outcome
+depends on substrate prep and trowel technique, both of which we
+don't see. If you have a specific concern (a tricky substrate, an
+unusual climate, a commercial-stress application), talk to us
+before ordering and we'll tell you what to expect.
+
+### Pre-order or do you keep stock?
+
+Depends on the order size and what's currently in production. Some
+quantities ship within days, others need a short lead time. Send us
+your project numbers and we'll come back with a realistic timeline.
+
+### Where are you based?
+
+Nusa Dua, Bali. WhatsApp is the fastest way to reach us. The
+reference project sits on the west coast (Medewi); if you'd like to
+see the system in daily use, the visit is easier there.
 
 ---
 
