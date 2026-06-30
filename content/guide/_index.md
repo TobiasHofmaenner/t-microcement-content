@@ -102,6 +102,13 @@ mistake will be hard to walk back), hiring an experienced plasterer
 is the right call. We're happy to talk through your project before
 you order.
 
+### Do I need to sand the base coat before sealing?
+
+It's a finish choice. If the trowelled base looks the way you want
+it, skip the sanding and go straight to the sealer. For a flatter,
+more uniform surface, sand the base coat smooth before sealing.
+Both are valid finishes.
+
 ### What if I damage it?
 
 This is one of the things our system does much better than typical
