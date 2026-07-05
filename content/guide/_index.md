@@ -12,9 +12,18 @@ with it day to day. We add to this as questions come in.
 
 ## Application videos
 
-*Coming soon.* Short clips covering substrate prep, trowel technique,
-sealing, and finish variations. If there's a specific step you'd like
-us to film, [drop us a note](/contact/).
+Short clips of each application step, filmed vertical for phone viewing
+on-site.
+
+- **[T-Microcement primer →](/guide/primer/)** — how to apply the primer
+  layer.
+- **[T-Microcement base →](/guide/base/)** — mixing and applying the base,
+  in two steps.
+- **[T-Microcement sealer →](/guide/sealer/)** — how to apply the
+  breathable sealer.
+
+If there's a step you'd like us to film in more detail,
+[drop us a note](/contact/).
 
 ## Common questions
 
